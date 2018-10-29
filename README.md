@@ -18,6 +18,10 @@ This extension is used for bigfish . So you need to follow the [bigfish docs](ht
 
 Initial release. Only support basic component and stateless component.
 
+### 0.0.3
+
+Modify template: Omit `.js` when import some Javascript files.
+
 ### For more information
 
 * [bigfish docs](https://bigfish.alipay.com/)
