@@ -2,7 +2,7 @@
   "name": "bigfish-generator-addon",
   "displayName": "bigfish-generator-addon",
   "description": "This extension adds context menu items to help creating the React Component files for Bigfish. ",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "fengsx",
   "engines": {
     "vscode": "^1.27.0"

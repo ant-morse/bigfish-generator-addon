@@ -14,7 +14,7 @@ This extension is used for bigfish . So you need to follow the [bigfish docs](ht
 
 ## Release Notes
 
-### 0.0.1
+### 0.0.2
 
 Initial release. Only support basic component and stateless component.
 
