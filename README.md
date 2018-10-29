@@ -6,7 +6,7 @@ This extension adds context menu items to help creating the React Component file
 
 For example if there is an image subfolder under your extension project workspace:
 
-![demo](https://gw.alicdn.com/tfs/TB1S_UKlxjaK1RjSZFAXXbdLFXa-599-502.gif)
+![demo](https://gw.alicdn.com/tfs/TB1weEVlxnaK1RjSZFBXXcW7VXa-599-502.gif)
 
 ## Requirements
 
