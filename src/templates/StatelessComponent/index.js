@@ -1,3 +1,3 @@
-import <%= Name %> from './<%= Name %>.js';
+import <%= Name %> from './<%= Name %>';
 
 export default <%= Name %>;
